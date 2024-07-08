@@ -1,4 +1,4 @@
 #requirements.txt
 snowflake-connector-python
 snowflake-snowpark-python
-strealit==3.11.1
+streamlit==3.11.1
